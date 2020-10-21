@@ -12,6 +12,7 @@
 | :elephant: &nbsp;               [分布式](#分布式) |
 | :moneybag: &nbsp;               [广告系统](#广告系统) |
 | :vertical_traffic_light: &nbsp; [软件工程领域方法论](#软件工程领域方法论) |
+| :bug: [后记](#后记)|
 
 <br>
 
@@ -44,3 +45,7 @@
 ## 软件工程领域方法论
 * DDD
 * TDD
+
+## 后记
+* [排版教程](https://docs.github.com/en/free-pro-team@latest/github/writing-on-github/basic-writing-and-formatting-syntax#styling-text)
+* [:bug:各种图标](https://www.webfx.com/tools/emoji-cheat-sheet/)
