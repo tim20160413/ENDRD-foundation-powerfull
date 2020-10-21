@@ -1,23 +1,45 @@
 # 后端程序员基础储备
 
 <br>
-| &nbsp;工程化&nbsp; |
+
+| 目录 |
 | :---: |
-| [工程化](#工程化) |
+| :turtle: &nbsp;                 [工程化](#工程化) |
+| :ant: &nbsp;                    [操作系统和网络](#操作系统和网络) |
+| :crocodile: &nbsp;              [源码分析与架构设计](#源码分析与架构设计) |
+| :whale: &nbsp;                  [Linux网络开发](#Linux网络开发) |
+| :turtle: &nbsp;                 [性能优化](#性能优化) |
+| :elephant: &nbsp;               [分布式](#分布式) |
+| :moneybag: &nbsp;               [广告系统](#广告系统) |
+| :vertical_traffic_light: &nbsp; [软件工程领域方法论](#软件工程领域方法论) |
 
 <br>
+
+## 工程化
+* xmake
+* mysql https://zhuanlan.zhihu.com/p/162048852
+* redis
+
+## 操作系统和网络
+
+## 源码分析与架构设计
 * 开发语言：C/C++、Python、shell
   c++ https://zhuanlan.zhihu.com/p/158595853
 * 数据结构和算法
 * 设计模式
-* mysql https://zhuanlan.zhihu.com/p/162048852
-* redis
-* [软件工程领域方法论](#软件工程领域方法论)
 
-## 工程化
-* xmake
+## Linux网络开发
+* Linux网络编程
+* 高并发编程
+* 高性能开发
+* 多线程
+* 协议栈
 
-## 
+## 性能优化
+
+## 分布式
+
+## 广告系统
 
 ## 软件工程领域方法论
 * DDD
